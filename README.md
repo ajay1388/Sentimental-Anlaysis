@@ -8,10 +8,10 @@ Sentiment Analysis, also known as opinion mining is a process of identifying and
 
   #### Python Libraries
   
-  1. nltk
-  2. collections
-  3. matplotlib
-  4. string
+  * nltk
+  * collections
+  * matplotlib
+  * string
 
 ## Twitter Sentiment Analysis
 
