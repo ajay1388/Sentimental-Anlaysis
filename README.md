@@ -30,4 +30,4 @@ Sentiment Analysis, also known as opinion mining is a process of identifying and
 ## Built With
   
   Lexical Analysis using Bag of Words
-  It traverses the final list of words after all the pre processing is done and then check for each word in the bag of words(here emotions.txt)...And based upon that it classifies into different emptions(**_cheated_,_singled out_,_loved_,_attracted_,_sad_,_fearful_,_angry_,_esteemed_**)
+  It traverses the final list of words after all the pre processing is done and then check for each word in the bag of words(here emotions.txt)...And based upon that it classifies into different emptions(**_cheated_,_singled out_,_loved_,_attracted_,_sad_,_fearful_,_angry_,_esteemed_** and many more)
